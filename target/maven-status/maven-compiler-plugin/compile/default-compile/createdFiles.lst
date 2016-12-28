@@ -1,0 +1,5 @@
+sy\controller\UserController.class
+sy\service\UserServiceImpl.class
+sy\service\UserServiceI.class
+sy\dao\UserMapper.class
+sy\model\User.class
